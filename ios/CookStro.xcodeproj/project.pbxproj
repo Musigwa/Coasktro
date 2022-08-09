@@ -11,9 +11,25 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		23687A83163AD27404C7999D /* libPods-CookStro.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 68DB4138349E45646188D53A /* libPods-CookStro.a */; };
+		35638C4238EC7F6951F2F75E /* libPods-CookStro.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1131DF5A1D11735920EDF5 /* libPods-CookStro.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		CDE2CB3502E2118968AD41E2 /* libPods-CookStro-CookStroTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E9A0F083D88D66E41FC5EFFF /* libPods-CookStro-CookStroTests.a */; };
+		8E3BF3F828A29E0500B849C6 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3E828A29E0500B849C6 /* Fontisto.ttf */; };
+		8E3BF3F928A29E0500B849C6 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3E928A29E0500B849C6 /* Octicons.ttf */; };
+		8E3BF3FA28A29E0500B849C6 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3EA28A29E0500B849C6 /* Feather.ttf */; };
+		8E3BF3FB28A29E0500B849C6 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3EB28A29E0500B849C6 /* Entypo.ttf */; };
+		8E3BF3FC28A29E0500B849C6 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3EC28A29E0500B849C6 /* FontAwesome5_Brands.ttf */; };
+		8E3BF3FD28A29E0500B849C6 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3ED28A29E0500B849C6 /* MaterialCommunityIcons.ttf */; };
+		8E3BF3FE28A29E0500B849C6 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3EE28A29E0500B849C6 /* AntDesign.ttf */; };
+		8E3BF3FF28A29E0500B849C6 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3EF28A29E0500B849C6 /* Foundation.ttf */; };
+		8E3BF40028A29E0500B849C6 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F028A29E0500B849C6 /* Ionicons.ttf */; };
+		8E3BF40128A29E0500B849C6 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F128A29E0500B849C6 /* FontAwesome5_Solid.ttf */; };
+		8E3BF40228A29E0500B849C6 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F228A29E0500B849C6 /* FontAwesome5_Regular.ttf */; };
+		8E3BF40328A29E0500B849C6 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F328A29E0500B849C6 /* FontAwesome.ttf */; };
+		8E3BF40428A29E0500B849C6 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F428A29E0500B849C6 /* Zocial.ttf */; };
+		8E3BF40528A29E0500B849C6 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F528A29E0500B849C6 /* EvilIcons.ttf */; };
+		8E3BF40628A29E0500B849C6 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F628A29E0500B849C6 /* SimpleLineIcons.ttf */; };
+		8E3BF40728A29E0500B849C6 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E3BF3F728A29E0500B849C6 /* MaterialIcons.ttf */; };
+		947E4E01992946D754C08AD7 /* libPods-CookStro-CookStroTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 73325252291452C237DCE015 /* libPods-CookStro-CookStroTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,13 +52,29 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = CookStro/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CookStro/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = CookStro/main.m; sourceTree = "<group>"; };
-		339065C5159F13610B5BBDCF /* Pods-CookStro-CookStroTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro-CookStroTests.release.xcconfig"; path = "Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests.release.xcconfig"; sourceTree = "<group>"; };
-		68DB4138349E45646188D53A /* libPods-CookStro.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CookStro.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D1131DF5A1D11735920EDF5 /* libPods-CookStro.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CookStro.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C031E4E0B8121534820EC82 /* Pods-CookStro.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro.release.xcconfig"; path = "Target Support Files/Pods-CookStro/Pods-CookStro.release.xcconfig"; sourceTree = "<group>"; };
+		4EA175895325547EBB106E0F /* Pods-CookStro.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro.debug.xcconfig"; path = "Target Support Files/Pods-CookStro/Pods-CookStro.debug.xcconfig"; sourceTree = "<group>"; };
+		73325252291452C237DCE015 /* libPods-CookStro-CookStroTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CookStro-CookStroTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CookStro/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		879FB663CDFE14FC981C91EC /* Pods-CookStro-CookStroTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro-CookStroTests.debug.xcconfig"; path = "Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests.debug.xcconfig"; sourceTree = "<group>"; };
-		8DE58BB2624F1B88A241A51A /* Pods-CookStro.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro.release.xcconfig"; path = "Target Support Files/Pods-CookStro/Pods-CookStro.release.xcconfig"; sourceTree = "<group>"; };
-		C17C119B92737C7C23F60D04 /* Pods-CookStro.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro.debug.xcconfig"; path = "Target Support Files/Pods-CookStro/Pods-CookStro.debug.xcconfig"; sourceTree = "<group>"; };
-		E9A0F083D88D66E41FC5EFFF /* libPods-CookStro-CookStroTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CookStro-CookStroTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E3BF3E828A29E0500B849C6 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		8E3BF3E928A29E0500B849C6 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		8E3BF3EA28A29E0500B849C6 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		8E3BF3EB28A29E0500B849C6 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		8E3BF3EC28A29E0500B849C6 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		8E3BF3ED28A29E0500B849C6 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		8E3BF3EE28A29E0500B849C6 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		8E3BF3EF28A29E0500B849C6 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		8E3BF3F028A29E0500B849C6 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		8E3BF3F128A29E0500B849C6 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		8E3BF3F228A29E0500B849C6 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		8E3BF3F328A29E0500B849C6 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		8E3BF3F428A29E0500B849C6 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
+		8E3BF3F528A29E0500B849C6 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		8E3BF3F628A29E0500B849C6 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		8E3BF3F728A29E0500B849C6 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		934CAE8DE0A5EAFD60613F0A /* Pods-CookStro-CookStroTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro-CookStroTests.release.xcconfig"; path = "Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests.release.xcconfig"; sourceTree = "<group>"; };
+		EB4895CD2A1E1F0FE2A4702B /* Pods-CookStro-CookStroTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CookStro-CookStroTests.debug.xcconfig"; path = "Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -51,7 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDE2CB3502E2118968AD41E2 /* libPods-CookStro-CookStroTests.a in Frameworks */,
+				947E4E01992946D754C08AD7 /* libPods-CookStro-CookStroTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +91,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23687A83163AD27404C7999D /* libPods-CookStro.a in Frameworks */,
+				35638C4238EC7F6951F2F75E /* libPods-CookStro.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,8 +132,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				68DB4138349E45646188D53A /* libPods-CookStro.a */,
-				E9A0F083D88D66E41FC5EFFF /* libPods-CookStro-CookStroTests.a */,
+				1D1131DF5A1D11735920EDF5 /* libPods-CookStro.a */,
+				73325252291452C237DCE015 /* libPods-CookStro-CookStroTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -116,6 +148,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				8E3BF3E728A29E0500B849C6 /* Fonts */,
 				13B07FAE1A68108700A75B9A /* CookStro */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* CookStroTests */,
@@ -137,13 +170,37 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		8E3BF3E728A29E0500B849C6 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8E3BF3E828A29E0500B849C6 /* Fontisto.ttf */,
+				8E3BF3E928A29E0500B849C6 /* Octicons.ttf */,
+				8E3BF3EA28A29E0500B849C6 /* Feather.ttf */,
+				8E3BF3EB28A29E0500B849C6 /* Entypo.ttf */,
+				8E3BF3EC28A29E0500B849C6 /* FontAwesome5_Brands.ttf */,
+				8E3BF3ED28A29E0500B849C6 /* MaterialCommunityIcons.ttf */,
+				8E3BF3EE28A29E0500B849C6 /* AntDesign.ttf */,
+				8E3BF3EF28A29E0500B849C6 /* Foundation.ttf */,
+				8E3BF3F028A29E0500B849C6 /* Ionicons.ttf */,
+				8E3BF3F128A29E0500B849C6 /* FontAwesome5_Solid.ttf */,
+				8E3BF3F228A29E0500B849C6 /* FontAwesome5_Regular.ttf */,
+				8E3BF3F328A29E0500B849C6 /* FontAwesome.ttf */,
+				8E3BF3F428A29E0500B849C6 /* Zocial.ttf */,
+				8E3BF3F528A29E0500B849C6 /* EvilIcons.ttf */,
+				8E3BF3F628A29E0500B849C6 /* SimpleLineIcons.ttf */,
+				8E3BF3F728A29E0500B849C6 /* MaterialIcons.ttf */,
+			);
+			name = Fonts;
+			path = ../src/assets/Fonts;
+			sourceTree = "<group>";
+		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C17C119B92737C7C23F60D04 /* Pods-CookStro.debug.xcconfig */,
-				8DE58BB2624F1B88A241A51A /* Pods-CookStro.release.xcconfig */,
-				879FB663CDFE14FC981C91EC /* Pods-CookStro-CookStroTests.debug.xcconfig */,
-				339065C5159F13610B5BBDCF /* Pods-CookStro-CookStroTests.release.xcconfig */,
+				4EA175895325547EBB106E0F /* Pods-CookStro.debug.xcconfig */,
+				3C031E4E0B8121534820EC82 /* Pods-CookStro.release.xcconfig */,
+				EB4895CD2A1E1F0FE2A4702B /* Pods-CookStro-CookStroTests.debug.xcconfig */,
+				934CAE8DE0A5EAFD60613F0A /* Pods-CookStro-CookStroTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -155,12 +212,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "CookStroTests" */;
 			buildPhases = (
-				D56F34C8803B331F2A3CAAE5 /* [CP] Check Pods Manifest.lock */,
+				D9960E2024205B5EBAD920AD /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				E884A6AA2484576582437027 /* [CP] Embed Pods Frameworks */,
-				6696B4922EFC059A84E3D6E8 /* [CP] Copy Pods Resources */,
+				D16B6A1B2030DFB5B45FD76E /* [CP] Embed Pods Frameworks */,
+				54E968492530A2D8C8644B57 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -176,14 +233,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "CookStro" */;
 			buildPhases = (
-				249E8A5E9DCB57F4DF2D7966 /* [CP] Check Pods Manifest.lock */,
+				F92CDB04E5FD115A2F723E94 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				226CE3B45C0C01DF40986B2D /* [CP] Embed Pods Frameworks */,
-				BF195AD8278F4ABD29B7FCC2 /* [CP] Copy Pods Resources */,
+				C76CF6442A70E6D53911C744 /* [CP] Embed Pods Frameworks */,
+				DBF55F66422BC295A9B1A897 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -242,7 +299,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E3BF3F828A29E0500B849C6 /* Fontisto.ttf in Resources */,
+				8E3BF40328A29E0500B849C6 /* FontAwesome.ttf in Resources */,
+				8E3BF3FF28A29E0500B849C6 /* Foundation.ttf in Resources */,
+				8E3BF40228A29E0500B849C6 /* FontAwesome5_Regular.ttf in Resources */,
+				8E3BF40028A29E0500B849C6 /* Ionicons.ttf in Resources */,
+				8E3BF40528A29E0500B849C6 /* EvilIcons.ttf in Resources */,
+				8E3BF3FB28A29E0500B849C6 /* Entypo.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				8E3BF40428A29E0500B849C6 /* Zocial.ttf in Resources */,
+				8E3BF40628A29E0500B849C6 /* SimpleLineIcons.ttf in Resources */,
+				8E3BF3FA28A29E0500B849C6 /* Feather.ttf in Resources */,
+				8E3BF3F928A29E0500B849C6 /* Octicons.ttf in Resources */,
+				8E3BF3FC28A29E0500B849C6 /* FontAwesome5_Brands.ttf in Resources */,
+				8E3BF3FE28A29E0500B849C6 /* AntDesign.ttf in Resources */,
+				8E3BF40728A29E0500B849C6 /* MaterialIcons.ttf in Resources */,
+				8E3BF40128A29E0500B849C6 /* FontAwesome5_Solid.ttf in Resources */,
+				8E3BF3FD28A29E0500B849C6 /* MaterialCommunityIcons.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -266,46 +339,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		226CE3B45C0C01DF40986B2D /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		249E8A5E9DCB57F4DF2D7966 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-CookStro-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		6696B4922EFC059A84E3D6E8 /* [CP] Copy Pods Resources */ = {
+		54E968492530A2D8C8644B57 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -322,24 +356,41 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		BF195AD8278F4ABD29B7FCC2 /* [CP] Copy Pods Resources */ = {
+		C76CF6442A70E6D53911C744 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-resources-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Copy Pods Resources";
+			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-resources-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D56F34C8803B331F2A3CAAE5 /* [CP] Check Pods Manifest.lock */ = {
+		D16B6A1B2030DFB5B45FD76E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D9960E2024205B5EBAD920AD /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -361,21 +412,43 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E884A6AA2484576582437027 /* [CP] Embed Pods Frameworks */ = {
+		DBF55F66422BC295A9B1A897 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CookStro-CookStroTests/Pods-CookStro-CookStroTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CookStro/Pods-CookStro-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F92CDB04E5FD115A2F723E94 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CookStro-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -430,7 +503,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 879FB663CDFE14FC981C91EC /* Pods-CookStro-CookStroTests.debug.xcconfig */;
+			baseConfigurationReference = EB4895CD2A1E1F0FE2A4702B /* Pods-CookStro-CookStroTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -457,7 +530,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 339065C5159F13610B5BBDCF /* Pods-CookStro-CookStroTests.release.xcconfig */;
+			baseConfigurationReference = 934CAE8DE0A5EAFD60613F0A /* Pods-CookStro-CookStroTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -481,7 +554,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C17C119B92737C7C23F60D04 /* Pods-CookStro.debug.xcconfig */;
+			baseConfigurationReference = 4EA175895325547EBB106E0F /* Pods-CookStro.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -507,7 +580,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8DE58BB2624F1B88A241A51A /* Pods-CookStro.release.xcconfig */;
+			baseConfigurationReference = 3C031E4E0B8121534820EC82 /* Pods-CookStro.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;

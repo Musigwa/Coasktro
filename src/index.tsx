@@ -1,8 +1,8 @@
 import { NavigationContainer } from '@react-navigation/native';
+import TabsNavigator from 'routes/Tabs';
 import React from 'react';
-import TabsNavigator from './Tabs';
 
-const AppNavigator = () => {
+const App = () => {
   return (
     <NavigationContainer>
       <TabsNavigator />
@@ -10,4 +10,4 @@ const AppNavigator = () => {
   );
 };
 
-export default AppNavigator;
+export default App;
